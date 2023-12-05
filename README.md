@@ -1,1 +1,1 @@
-# Trabalho.bd
+# Trabalho de banco de dados
